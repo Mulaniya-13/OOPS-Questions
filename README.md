@@ -28,7 +28,7 @@ This repository contains solutions to various OOPs questions in C++, created to 
 
 🛠️ Language Used
 
-- C++
+- C++.
 
 📂 Repository Structure
 
